@@ -1,2 +1,2 @@
 pirnt "hello samsing"
-print "111"
+print "111222"
